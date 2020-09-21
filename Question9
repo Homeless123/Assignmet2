@@ -1,0 +1,20 @@
+package Assignmet2;
+
+public class question9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		byte i;
+		short o;
+		int a;
+		long e;
+		i=100;
+		o=5000;
+		a=1320000;
+		e=343434343434l;
+		System.out.println("byte="+i+"\n"+"short="+o+"\n"+"int="+a+"\n"+"long="+e);
+		
+
+	}
+
+}
