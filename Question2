@@ -1,0 +1,12 @@
+package Assignmet2;
+
+public class question2 {
+
+	public static void main(String[] args) {
+		
+		String called_message;
+		called_message="Information about Bank deposit";
+		System.out.println("You have one message:"+called_message);
+	}
+
+}
