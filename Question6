@@ -1,0 +1,24 @@
+package Assignmet2;
+
+public class question6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String a,b,c,d,e;
+		a="Querasma";
+		b="Guti";
+		c="Pascal";
+		d="Nike";
+		e="Ventana";
+		System.out.println("Besiktas was sell to "+a);
+		System.out.println("One of the Spanish player is "+b);
+		System.out.println("Some player doesn't like the"+c);
+		System.out.println("Suat bought one shoes by "+d);
+		System.out.println("We call the window by Spanish "+e);
+		
+		
+		
+	}
+
+}
