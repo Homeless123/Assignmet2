@@ -1,0 +1,13 @@
+package Assignmet2;
+
+public class question1 {
+
+	public static void main(String[] args) {
+		int count;String team;
+		count=1903;
+		team="Besiktas";
+		
+		
+		System.out.print(""+team);
+		System.out.print(" was Publish "+count);
+		
