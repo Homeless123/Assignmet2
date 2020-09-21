@@ -1,0 +1,15 @@
+package Assignmet2;
+
+public class question5 {
+
+	public static void main(String[] args) {
+		
+		String _1,_2;
+		_1="68";
+		_2="7894";
+		System.out.print("First is "+_1);
+		System.out.println(" Second="+_2);
+
+	}
+
+}
