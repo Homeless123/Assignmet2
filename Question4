@@ -1,0 +1,23 @@
+package Assignmet2;
+
+public class question4 {
+
+	public static void main(String[] args) {
+		
+		String s2,s4,s6;
+		
+		s2=" Word-";	
+		s4="-The";
+		s6="Java";
+		System.out.print("Today's"+s2);
+		System.out.print("Of"+s4);
+		System.out.print("-Day is:"+s6);
+		System.out.println();
+		//or
+		String full="Today's Word-Of-The-Day is: Java";
+		System.out.println(""+full);
+		
+
+	}
+
+}
